@@ -8,9 +8,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
-import javax.swing.text.html.Option;
 import java.util.List;
-import java.util.Optional;
 
 /**
  * Annotation @Service는 @Component와 같다, Spring Bean으로 등록한다는 뜻.
