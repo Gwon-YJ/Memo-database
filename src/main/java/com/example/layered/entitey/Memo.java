@@ -1,6 +1,5 @@
 package com.example.layered.entitey;
 
-import com.example.layered.Dto.MemoRequestDto;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
@@ -9,7 +8,6 @@ import lombok.Setter;
 @AllArgsConstructor
 public class Memo {
 
-    @Setter
     private Long id;
     private String title;
     private String contents;
