@@ -1,4 +1,5 @@
 use mamo;
+
 CREATE TABLE memo
 (
     id       BIGINT AUTO_INCREMENT PRIMARY KEY COMMENT '메모 식별자',
